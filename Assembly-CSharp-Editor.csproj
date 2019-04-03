@@ -143,19 +143,19 @@
     <Compile Include="Assets\Fungus\Thirdparty\Reorderable List Field\Editor\SerializedPropertyAdaptor.cs" />
     <Compile Include="Assets\Fungus\Thirdparty\Usfxr\Editor\SfxrGenerator.cs" />
     <Reference Include="Assembly-UnityScript">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

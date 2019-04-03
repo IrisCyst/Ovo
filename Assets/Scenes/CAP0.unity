@@ -217,6 +217,7 @@ GameObject:
   - component: {fileID: 365389709}
   - component: {fileID: 365389708}
   - component: {fileID: 365389696}
+  - component: {fileID: 365389712}
   m_Layer: 0
   m_Name: Flowchart
   m_TagString: Untagged
@@ -248,7 +249,8 @@ MonoBehaviour:
     y: -340
     width: 1114
     height: 859
-  selectedBlocks: []
+  selectedBlocks:
+  - {fileID: 365389699}
   selectedCommands: []
   variables: []
   description: 
@@ -274,7 +276,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 14
   indentLevel: 0
-  storyText: intro cap1
+  storyText: Cap 0
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
@@ -314,6 +316,7 @@ MonoBehaviour:
   commandList:
   - {fileID: 365389711}
   - {fileID: 365389696}
+  - {fileID: 365389712}
   - {fileID: 365389698}
 --- !u!114 &365389698
 MonoBehaviour:
@@ -645,6 +648,32 @@ MonoBehaviour:
   fadeColor: {r: 0, g: 0, b: 0, a: 1}
   fadeTexture: {fileID: 0}
   targetCamera: {fileID: 0}
+--- !u!114 &365389712
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 365389694}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec422cd568a9c4a31ad7c36d0572b9da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  itemId: 18
+  indentLevel: 0
+  storyText: Intro
+  description: 
+  character: {fileID: 0}
+  portrait: {fileID: 0}
+  voiceOverClip: {fileID: 0}
+  showAlways: 1
+  showCount: 1
+  extendPrevious: 0
+  fadeWhenDone: 1
+  waitForClick: 1
+  stopVoiceover: 1
+  waitForVO: 0
+  setSayDialog: {fileID: 0}
 --- !u!114 &365389713
 MonoBehaviour:
   m_ObjectHideFlags: 2

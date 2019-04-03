@@ -624,16 +624,16 @@
     <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\inspect.txt" />
     <None Include="Assets\Fungus\Thirdparty\FungusLua\Resources\Lua\fungus.txt" />
     <Reference Include="UnityEditor.StandardEvents">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Ovo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>C:/Users/Carlos/Documents/GitHub/Ovo/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
