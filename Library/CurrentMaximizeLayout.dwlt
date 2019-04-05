@@ -23,7 +23,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 342}
   m_MaxSize: {x: 12006, y: 8042}
   vertical: 0
-  controlID: 10883
+  controlID: 4620
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 342}
   m_MaxSize: {x: 8004, y: 8042}
   vertical: 1
-  controlID: 10884
+  controlID: 4621
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 10885
+  controlID: 4622
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -202,10 +202,10 @@ MonoBehaviour:
     height: 259
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
-    scrollPos: {x: 0, y: 144}
-    m_SelectedIDs: c292f5ff
-    m_LastClickedID: -683326
-    m_ExpandedIDs: a892f5ffc292f5ffd892f5ffda92f5ffa442ffff5cfbffff00000000ae3900001c3a00002a3a0000
+    scrollPos: {x: 0, y: 170}
+    m_SelectedIDs: bcfbffff
+    m_LastClickedID: -1092
+    m_ExpandedIDs: acfbffffbcfbffffe2fbffffe4fbffffe6fbffff00000000201900003e1900009c190000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -288,9 +288,9 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 247.21646, y: 50.82144, z: 1.03125}
+    m_Target: {x: 314.43906, y: 51.59232, z: 0.546875}
     speed: 2
-    m_Value: {x: 247.21646, y: 50.82144, z: 1.03125}
+    m_Value: {x: 314.43906, y: 51.59232, z: 0.546875}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -322,9 +322,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 69.11181
+    m_Target: 130.70766
     speed: 2
-    m_Value: 69.11181
+    m_Value: 130.70766
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -467,20 +467,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Fungus/Fonts
+    - Assets/Characters
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Fungus/Fonts
+  - Assets/Characters
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Carlos\Documents\GitHub\Ovo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 90300000
-    m_LastClickedID: 12432
-    m_ExpandedIDs: 00000000e42e0000a631000000ca9a3b
+    scrollPos: {x: 0, y: 23}
+    m_SelectedIDs: 9c0f0000
+    m_LastClickedID: 3996
+    m_ExpandedIDs: 000000002e0e0000fa10000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -508,7 +508,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000e42e0000a631000000ca9a3b
+    m_ExpandedIDs: 000000002e0e0000fa10000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -533,8 +533,8 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: c292f5ff
-    m_LastClickedInstanceID: -683326
+    m_SelectedInstanceIDs: 38190000
+    m_LastClickedInstanceID: 6456
     m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: 680600001ce2eeff000000003a05000048050000c20500004005000042050000fc280000284e0000803e0000a83e0000983e00009c3e0000a03e0000a43e0000
     m_RenameOverlay:
